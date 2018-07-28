@@ -1,0 +1,10 @@
+F:\Subject\C#\Z_BTL\QuanLyNhanSu\QLNS\DTO\bin\Debug\DTO.dll
+F:\Subject\C#\Z_BTL\QuanLyNhanSu\QLNS\DTO\bin\Debug\DTO.pdb
+F:\Subject\C#\Z_BTL\QuanLyNhanSu\QLNS\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\Subject\C#\Z_BTL\QuanLyNhanSu\QLNS\DTO\obj\Debug\DTO.dll
+F:\Subject\C#\Z_BTL\QuanLyNhanSu\QLNS\DTO\obj\Debug\DTO.pdb
+F:\Subject\Window\Z_BTL\QuanLyNhanSu\QLNS\DTO\bin\Debug\DTO.dll
+F:\Subject\Window\Z_BTL\QuanLyNhanSu\QLNS\DTO\bin\Debug\DTO.pdb
+F:\Subject\Window\Z_BTL\QuanLyNhanSu\QLNS\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\Subject\Window\Z_BTL\QuanLyNhanSu\QLNS\DTO\obj\Debug\DTO.dll
+F:\Subject\Window\Z_BTL\QuanLyNhanSu\QLNS\DTO\obj\Debug\DTO.pdb
